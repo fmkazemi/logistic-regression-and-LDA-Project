@@ -1,5 +1,5 @@
-####Applying logistic regression and LDA to the data##### A2_T2.tab (a tab-delimited text file)
-posted here. This data consists of 180 features, 2 classes and 3186 instances.
+# Applying logistic regression and LDA to the data A2_T2.tab (a tab-delimited text file)
+This data consists of 180 features, 2 classes and 3186 instances.
 
 First we separate 10% of the instances in the data as a validation set. 
 
